@@ -1,12 +1,6 @@
-import React, { useEffect, useState, useMemo, useCallback } from "react";
+import React, { useEffect, useState, useMemo } from "react";
 
-import {
-  Container,
-  ButtonView,
-  Numbers,
-  ContainerButton,
-  TextInfo,
-} from "./style";
+import { Container, ButtonView, Numbers, TextInfo } from "./style";
 
 /**import component button */
 import Button from "../../Components/Button";
